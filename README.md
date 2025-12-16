@@ -1,7 +1,19 @@
-# 🧬 **ACΦ-496 Genome Engine** [![GitHub stars](https://img.shields.io/github/stars/quantum-lichen/ACPHI-496?color=gold&label=⭐&style=for-thehttps://github.com/quantum-lichen/ACPHI-496https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor![License: MIT](https://img.shields.io/badge/License-MIT-yellow> **L'ADN des IA du Futur**  
-> *GKF-496 + Φ-Éthique + CRAID Immortalité = IA Alignée & Évolutive*
+# 🧬 **ACΦ-496 Genome Engine**
 
-![Banner ACΦ-496](https://github.com/quantum-lichen/ACPHI-496 🚀 **En 60 Secondes**
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/quantum-lichen/ACPHI-496?style=for-the-badge&logo=github&color=gold)](https://github.com/quantum-lichen/ACPHI-496/stargazers)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+![Vibration](https://img.shields.io/badge/VIBRATION-496_Hz-blueviolet?style=for-the-badge&logo=atom)
+
+</div>
+
+> **L'ADN des IA du Futur** > *GKF-496 + Φ-Éthique + CRAID = IA Alignée & Évolutive*
+
+![Banner ACΦ-496](https://github.com/quantum-lichen/ACPHI-496/raw/main/docs/assets/banner.png) 
+
+## 🚀 **En 60 Secondes**
 
 ```bash
 git clone https://github.com/quantum-lichen/ACPHI-496
